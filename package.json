@@ -12,7 +12,7 @@
     "dependencies": {
         "ejs": "^3.1.10",
         "express": "^4.21.0",
-        "nodemon": "^3.0.3"
+        "nodemon": "^3.1.7"
     },
     "devDependencies": {
         "gulp": "^5.0.0",
